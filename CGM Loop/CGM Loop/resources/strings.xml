@@ -1,0 +1,5 @@
+<resources>
+    <string id="AppName">CGM Loop</string>
+    <string id="nsurl">Nightscout endpoint url (e.g., https://yoursite.azurewebsites.net)?</string>
+    <string id="nsurlPrompt">Nightscout endpoint url (e.g., https://yoursite.azurewebsites.net)?</string>
+</resources>

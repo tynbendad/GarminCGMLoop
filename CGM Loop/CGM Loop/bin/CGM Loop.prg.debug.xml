@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="29" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="30" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="31" pc="268435478" symbol="initialize"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="34" pc="268435508" symbol="onLayout"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="35" pc="268435512" symbol="onLayout"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="36" pc="268435555" symbol="onLayout"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="37" pc="268435579" symbol="onLayout"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="39" pc="268435625" symbol="onLayout"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="48" pc="268435635" symbol="drawHand"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="50" pc="268435639" symbol="drawHand"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="51" pc="268435837" symbol="drawHand"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="52" pc="268435845" symbol="drawHand"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="53" pc="268435864" symbol="drawHand"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="54" pc="268435883" symbol="drawHand"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="55" pc="268435902" symbol="drawHand"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="58" pc="268435921" symbol="drawHand"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="59" pc="268435939" symbol="drawHand"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="60" pc="268435970" symbol="drawHand"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="61" pc="268436001" symbol="drawHand"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="65" pc="268436051" symbol="drawHand"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="66" pc="268436065" symbol="drawHand"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="71" pc="268436080" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="72" pc="268436084" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="73" pc="268436097" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="76" pc="268436110" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="77" pc="268436134" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="78" pc="268436134" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="79" pc="268436134" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="80" pc="268436144" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="82" pc="268436154" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="84" pc="268436204" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="85" pc="268436229" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="86" pc="268436254" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="87" pc="268436279" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="88" pc="268436304" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="89" pc="268436324" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="90" pc="268436347" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="91" pc="268436372" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="92" pc="268436397" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="93" pc="268436422" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="94" pc="268436447" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="98" pc="268436496" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="99" pc="268436527" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="100" pc="268436551" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="101" pc="268436576" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="103" pc="268436592" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="105" pc="268436788" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="115" pc="268437010" symbol="processAlerts"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="116" pc="268437014" symbol="processAlerts"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="117" pc="268437024" symbol="processAlerts"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="118" pc="268437034" symbol="processAlerts"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="119" pc="268437044" symbol="processAlerts"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="120" pc="268437054" symbol="processAlerts"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="121" pc="268437064" symbol="processAlerts"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="123" pc="268437074" symbol="processAlerts"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="125" pc="268437163" symbol="processAlerts"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="128" pc="268437176" symbol="processAlerts"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="129" pc="268437218" symbol="processAlerts"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="130" pc="268437276" symbol="processAlerts"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="131" pc="268437290" symbol="processAlerts"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="134" pc="268437303" symbol="processAlerts"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="136" pc="268437358" symbol="processAlerts"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="139" pc="268437371" symbol="processAlerts"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="140" pc="268437391" symbol="processAlerts"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="143" pc="268437404" symbol="processAlerts"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="144" pc="268437424" symbol="processAlerts"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="147" pc="268437437" symbol="processAlerts"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="148" pc="268437457" symbol="processAlerts"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="151" pc="268437470" symbol="processAlerts"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="153" pc="268437523" symbol="processAlerts"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="154" pc="268437538" symbol="processAlerts"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="156" pc="268437569" symbol="processAlerts"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="157" pc="268437584" symbol="processAlerts"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="166" pc="268437900" symbol="processAlerts"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="171" pc="268437925" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="174" pc="268437929" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="176" pc="268437940" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="177" pc="268437959" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="179" pc="268437984" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="181" pc="268438009" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="183" pc="268438022" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="185" pc="268438047" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="187" pc="268438072" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="189" pc="268438085" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="193" pc="268438185" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="194" pc="268438228" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="202" pc="268438340" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="203" pc="268438366" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="204" pc="268438388" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="207" pc="268438410" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="210" pc="268438426" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="213" pc="268438442" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="216" pc="268438489" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="218" pc="268438523" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="220" pc="268438536" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="221" pc="268438555" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="224" pc="268438614" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="226" pc="268438654" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="228" pc="268438667" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="231" pc="268438760" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="233" pc="268438791" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="234" pc="268438822" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="240" pc="268439058" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="257" pc="268439077" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="259" pc="268439096" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="262" pc="268439107" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="263" pc="268439159" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="264" pc="268439205" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="265" pc="268439221" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="266" pc="268439236" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="267" pc="268439270" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="268" pc="268439284" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="270" pc="268439297" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="271" pc="268439311" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="278" pc="268439343" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="279" pc="268439356" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="280" pc="268439369" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="281" pc="268439382" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="284" pc="268439398" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="285" pc="268439411" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="286" pc="268439424" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="287" pc="268439437" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="288" pc="268439450" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="291" pc="268439463" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="294" pc="268439510" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="295" pc="268439541" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="296" pc="268439581" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="298" pc="268439655" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="299" pc="268439691" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="301" pc="268439770" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="302" pc="268439806" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="305" pc="268439888" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="307" pc="268439901" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="310" pc="268439948" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="312" pc="268439988" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="314" pc="268440001" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="317" pc="268440048" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="319" pc="268440097" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="322" pc="268440110" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="324" pc="268440157" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="328" pc="268440256" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="330" pc="268440293" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="340" pc="268440306" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="344" pc="268440405" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="346" pc="268440442" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="349" pc="268440458" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="351" pc="268440471" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="353" pc="268440484" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="358" pc="268440587" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="360" pc="268440618" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="363" pc="268440631" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="365" pc="268440704" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="366" pc="268440738" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="367" pc="268440751" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="370" pc="268440764" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="374" pc="268440792" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="375" pc="268440815" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="377" pc="268440856" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="378" pc="268440866" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="379" pc="268440882" symbol="onReceive"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="385" pc="268440895" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="386" pc="268440899" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="387" pc="268440899" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="388" pc="268440899" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="389" pc="268440912" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="390" pc="268440929" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="391" pc="268440929" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="392" pc="268440929" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="393" pc="268440929" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="394" pc="268440929" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="396" pc="268440946" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="397" pc="268440959" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="400" pc="268440972" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="401" pc="268440989" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="403" pc="268441020" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="404" pc="268441096" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="405" pc="268441171" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="408" pc="268441258" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="409" pc="268441294" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="413" pc="268441338" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="414" pc="268441374" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="426" pc="268441570" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="430" pc="268441612" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="431" pc="268441670" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="432" pc="268441694" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="433" pc="268441719" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="436" pc="268441729" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="437" pc="268441729" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="438" pc="268441729" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="439" pc="268441733" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="441" pc="268441737" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="442" pc="268441761" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="444" pc="268441772" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="452" pc="268441884" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="453" pc="268441891" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="456" pc="268441901" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="464" pc="268442013" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="465" pc="268442020" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="468" pc="268442030" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="470" pc="268442041" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="478" pc="268442153" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="479" pc="268442160" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="482" pc="268442170" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="490" pc="268442282" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="491" pc="268442289" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="492" pc="268442296" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="493" pc="268442300" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="496" pc="268442304" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="497" pc="268442315" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="499" pc="268442354" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="501" pc="268442390" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="502" pc="268442455" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="503" pc="268442491" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="504" pc="268442508" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="506" pc="268442580" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="507" pc="268442597" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="509" pc="268442672" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="510" pc="268442683" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="512" pc="268442722" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="514" pc="268442758" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="515" pc="268442842" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="516" pc="268442853" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="518" pc="268442892" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="520" pc="268442928" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="521" pc="268443003" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="522" pc="268443028" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="524" pc="268443067" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="526" pc="268443103" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="527" pc="268443148" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="529" pc="268443256" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="530" pc="268443267" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="532" pc="268443306" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="534" pc="268443342" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="535" pc="268443382" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="538" pc="268443484" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="539" pc="268443518" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="540" pc="268443554" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="542" pc="268443705" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="543" pc="268443741" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="547" pc="268443825" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="548" pc="268443861" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="549" pc="268443866" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="551" pc="268443923" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="552" pc="268443940" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="555" pc="268444021" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="556" pc="268444061" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="559" pc="268444103" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="560" pc="268444159" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="561" pc="268444215" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="562" pc="268444260" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="599" pc="268444305" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="601" pc="268444353" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="602" pc="268444386" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="603" pc="268444391" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="604" pc="268444426" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="605" pc="268444436" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="606" pc="268444446" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="611" pc="268444510" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="614" pc="268444529" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="617" pc="268444557" symbol="updateView"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="618" pc="268444561" symbol="updateView"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="621" pc="268444578" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="622" pc="268444582" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="623" pc="268444592" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="626" pc="268444609" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopView.mc" lineNum="627" pc="268444613" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopGoalView.mc" lineNum="20" pc="268444624" symbol="initialize"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopGoalView.mc" lineNum="21" pc="268444628" symbol="initialize"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopGoalView.mc" lineNum="22" pc="268444646" symbol="initialize"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopGoalView.mc" lineNum="24" pc="268444675" symbol="initialize"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopGoalView.mc" lineNum="26" pc="268444688" symbol="initialize"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopGoalView.mc" lineNum="27" pc="268444706" symbol="initialize"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopGoalView.mc" lineNum="30" pc="268444749" symbol="initialize"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopGoalView.mc" lineNum="33" pc="268444792" symbol="initialize"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopGoalView.mc" lineNum="38" pc="268444818" symbol="onLayout"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopGoalView.mc" lineNum="41" pc="268444823" symbol="onShow"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopGoalView.mc" lineNum="45" pc="268444828" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopGoalView.mc" lineNum="46" pc="268444832" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopGoalView.mc" lineNum="47" pc="268444832" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopGoalView.mc" lineNum="48" pc="268444832" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopGoalView.mc" lineNum="50" pc="268444849" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopGoalView.mc" lineNum="51" pc="268444862" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopGoalView.mc" lineNum="53" pc="268444875" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopGoalView.mc" lineNum="54" pc="268444892" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopGoalView.mc" lineNum="56" pc="268444923" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopGoalView.mc" lineNum="59" pc="268444999" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopGoalView.mc" lineNum="60" pc="268445035" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopGoalView.mc" lineNum="63" pc="268445061" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopGoalView.mc" lineNum="64" pc="268445097" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopGoalView.mc" lineNum="67" pc="268445266" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopGoalView.mc" lineNum="68" pc="268445302" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopGoalView.mc" lineNum="71" pc="268445356" symbol="onUpdate"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopApp.mc" lineNum="15" pc="268445417" symbol="initialize"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopApp.mc" lineNum="16" pc="268445421" symbol="initialize"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopApp.mc" lineNum="17" pc="268445439" symbol="initialize"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopApp.mc" lineNum="20" pc="268445476" symbol="onStart"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopApp.mc" lineNum="23" pc="268445481" symbol="onStop"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopApp.mc" lineNum="26" pc="268445486" symbol="startTimer"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopApp.mc" lineNum="27" pc="268445490" symbol="startTimer"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopApp.mc" lineNum="28" pc="268445502" symbol="startTimer"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopApp.mc" lineNum="29" pc="268445543" symbol="startTimer"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopApp.mc" lineNum="33" pc="268445557" symbol="refreshUI"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopApp.mc" lineNum="34" pc="268445561" symbol="refreshUI"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopApp.mc" lineNum="37" pc="268445580" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopApp.mc" lineNum="38" pc="268445584" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopApp.mc" lineNum="41" pc="268445603" symbol="getInitialView"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopApp.mc" lineNum="42" pc="268445607" symbol="getInitialView"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopApp.mc" lineNum="43" pc="268445637" symbol="getInitialView"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopApp.mc" lineNum="46" pc="268445661" symbol="getGoalView"/>
+<entry filename="C:\\Users\\J\\git\\CGM Loop\\CGM Loop\\source\\CGMLoopApp.mc" lineNum="47" pc="268445665" symbol="getGoalView"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388987" symbol="vibrate"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="18" symbol="nsurl"/>
+<entry field="true" id="32" symbol="hiElapsed"/>
+<entry field="true" id="41" symbol="direction"/>
+<entry field="true" id="43" symbol="elapsedMills"/>
+<entry field="true" id="57" symbol="loopstatusAlert"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388645" symbol="Time"/>
+<entry field="true" id="14" symbol="DoNotDisturbIcon"/>
+<entry field="true" id="54" symbol="basal"/>
+<entry field="true" id="64" symbol="savedMin"/>
+<entry id="8388720" symbol="hour"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="9" object="true" symbol="CGMLoopView"/>
+<entry field="true" id="51" symbol="reservoir"/>
+<entry field="true" id="23" symbol="timerStarted"/>
+<entry field="true" id="34" symbol="lowPhonebat"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" symbol="Lang"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry field="true" id="55" symbol="bgAlert"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8389916" method="true" symbol="getGoalView"/>
+<entry field="true" id="36" symbol="mmolMgdlFactor"/>
+<entry field="true" id="45" symbol="predicted"/>
+<entry id="25" method="true" symbol="refreshUI"/>
+<entry id="8388636" symbol="Attention"/>
+<entry field="true" id="58" symbol="pumpbatAlert"/>
+<entry field="true" id="22" symbol="timer"/>
+<entry field="true" id="37" symbol="requestComplete"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="19" symbol="AppName"/>
+<entry id="38" method="true" symbol="drawHand"/>
+<entry field="true" id="35" symbol="lowReservoir"/>
+<entry field="true" id="44" symbol="loopstatus"/>
+<entry id="63" method="true" symbol="updateView"/>
+<entry id="8388641" symbol="Math"/>
+<entry id="61" method="true" symbol="processAlerts"/>
+<entry field="true" id="27" symbol="dndIcon"/>
+<entry field="true" id="15" symbol="LauncherIcon"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry field="true" id="49" symbol="pumpbat"/>
+<entry field="true" id="59" symbol="phonebatAlert"/>
+<entry id="8389795" symbol="doNotDisturb"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="24" method="true" symbol="startTimer"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8388940" symbol="year"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="8389670" symbol="screenShape"/>
+<entry field="true" id="20" symbol="goalString"/>
+<entry id="8388985" symbol="playTone"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="8389348" symbol="font"/>
+<entry id="39" method="true" symbol="drawHashMarks"/>
+<entry field="true" id="26" symbol="isAwake"/>
+<entry id="8388939" symbol="day"/>
+<entry id="8389338" symbol="minute"/>
+<entry field="true" id="60" symbol="reservoirAlert"/>
+<entry id="8389339" symbol="second"/>
+<entry field="true" id="50" symbol="phonebat"/>
+<entry id="10" object="true" symbol="CGMLoopGoalView"/>
+<entry id="8388938" symbol="month"/>
+<entry id="13" module="true" symbol="Layouts"/>
+<entry field="true" id="47" symbol="minPredict"/>
+<entry field="true" id="48" symbol="maxPredict"/>
+<entry field="true" id="33" symbol="lowPumpbat"/>
+<entry field="true" id="28" symbol="hiMGDL"/>
+<entry field="true" id="29" symbol="lowMGDL"/>
+<entry field="true" id="30" symbol="hiMMOL"/>
+<entry field="true" id="31" symbol="lowMMOL"/>
+<entry field="true" id="56" symbol="elapsedAlert"/>
+<entry field="true" id="21" symbol="myView"/>
+<entry field="true" id="46" symbol="loopElapsedSecs"/>
+<entry field="true" id="53" symbol="cob"/>
+<entry id="11" object="true" symbol="CGMLoop"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry field="true" id="42" symbol="delta"/>
+<entry field="true" id="17" symbol="nsurlPrompt"/>
+<entry id="62" method="true" symbol="onReceive"/>
+<entry field="true" id="16" symbol="id_font_black_diamond"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="40" symbol="bg"/>
+<entry field="true" id="52" symbol="iob"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436038" name="x" stackId="12" startPc="268435939"/>
+<entry endPc="268436038" name="y" stackId="13" startPc="268435939"/>
+<entry endPc="268436051" name="i" stackId="11" startPc="268435939"/>
+<entry endPc="268436079" name="result" stackId="6" startPc="268435639"/>
+<entry endPc="268436079" name="sin" stackId="10" startPc="268435639"/>
+<entry endPc="268436079" name="cos" stackId="9" startPc="268435639"/>
+<entry endPc="268436079" name="centerY" stackId="8" startPc="268435639"/>
+<entry endPc="268436079" name="coords" stackId="5" startPc="268435639"/>
+<entry endPc="268436079" name="centerX" stackId="7" startPc="268435639"/>
+<entry endPc="268436493" name="i" stackId="10" startPc="268436204"/>
+<entry endPc="268436493" name="eY" stackId="7" startPc="268436134"/>
+<entry endPc="268436493" name="eX" stackId="6" startPc="268436134"/>
+<entry endPc="268436493" name="innerRad" stackId="9" startPc="268436134"/>
+<entry endPc="268436493" name="outerRad" stackId="8" startPc="268436134"/>
+<entry endPc="268436493" name="sY" stackId="5" startPc="268436134"/>
+<entry endPc="268436493" name="sX" stackId="4" startPc="268436134"/>
+<entry endPc="268436996" name="upperX" stackId="14" startPc="268436551"/>
+<entry endPc="268436996" name="dx" stackId="13" startPc="268436551"/>
+<entry endPc="268437009" name="i" stackId="12" startPc="268436551"/>
+<entry endPc="268437009" name="coords" stackId="11" startPc="268436496"/>
+<entry endPc="268437009" name="height" stackId="3" startPc="268436084"/>
+<entry endPc="268437009" name="width" stackId="2" startPc="268436084"/>
+<entry endPc="268437918" name="vibrateData" stackId="3" startPc="268437584"/>
+<entry endPc="268437924" name="elapsedMinutes" stackId="2" startPc="268437014"/>
+<entry endPc="268437924" name="myMoment" stackId="1" startPc="268437014"/>
+<entry endPc="268438423" name="dirSwitch" stackId="3" startPc="268438185"/>
+<entry endPc="268439324" name="myNum" stackId="9" startPc="268439236"/>
+<entry endPc="268439337" name="i" stackId="8" startPc="268439236"/>
+<entry endPc="268439340" name="options" stackId="6" startPc="268438760"/>
+<entry endPc="268439340" name="loopTime" stackId="5" startPc="268438760"/>
+<entry endPc="268439340" name="numPredictions" stackId="4" startPc="268438760"/>
+<entry endPc="268439340" name="moment" stackId="7" startPc="268438760"/>
+<entry endPc="268444526" name="url" stackId="24" startPc="268444353"/>
+<entry endPc="268444556" name="elapsed" stackId="18" startPc="268440899"/>
+<entry endPc="268444556" name="now" stackId="11" startPc="268440899"/>
+<entry endPc="268444556" name="secondTail" stackId="9" startPc="268440899"/>
+<entry endPc="268444556" name="hourHand" stackId="6" startPc="268440899"/>
+<entry endPc="268444556" name="secondHand" stackId="8" startPc="268440899"/>
+<entry endPc="268444556" name="showBatteryLine" stackId="22" startPc="268440899"/>
+<entry endPc="268444556" name="elapsedMinutes" stackId="17" startPc="268440899"/>
+<entry endPc="268444556" name="dateStr" stackId="13" startPc="268440899"/>
+<entry endPc="268444556" name="minStr" stackId="15" startPc="268440899"/>
+<entry endPc="268444556" name="clockTime" stackId="5" startPc="268440899"/>
+<entry endPc="268444556" name="hourStr" stackId="14" startPc="268440899"/>
+<entry endPc="268444556" name="height" stackId="3" startPc="268440899"/>
+<entry endPc="268444556" name="lineY" stackId="19" startPc="268440899"/>
+<entry endPc="268444556" name="width" stackId="2" startPc="268440899"/>
+<entry endPc="268444556" name="edgeY" stackId="21" startPc="268440899"/>
+<entry endPc="268444556" name="edgeX" stackId="20" startPc="268440899"/>
+<entry endPc="268444556" name="screenWidth" stackId="4" startPc="268440899"/>
+<entry endPc="268444556" name="minuteHand" stackId="7" startPc="268440899"/>
+<entry endPc="268444556" name="showDateLine" stackId="23" startPc="268440899"/>
+<entry endPc="268444556" name="info" stackId="12" startPc="268440899"/>
+<entry endPc="268444556" name="stats" stackId="10" startPc="268440899"/>
+<entry endPc="268444556" name="myMoment" stackId="16" startPc="268440899"/>
+<entry endPc="268445416" name="height" stackId="3" startPc="268444832"/>
+<entry endPc="268445416" name="dateStr" stackId="7" startPc="268444832"/>
+<entry endPc="268445416" name="now" stackId="5" startPc="268444832"/>
+<entry endPc="268445416" name="width" stackId="2" startPc="268444832"/>
+<entry endPc="268445416" name="clockTime" stackId="4" startPc="268444832"/>
+<entry endPc="268445416" name="info" stackId="6" startPc="268444832"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="CGMLoopView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="CGMLoopView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawHand" parent="CGMLoopView">
+<param id="dc"/>
+<param id="angle"/>
+<param id="length"/>
+<param id="width"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawHashMarks" parent="CGMLoopView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="processAlerts" parent="CGMLoopView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onReceive" parent="CGMLoopView">
+<param id="responseCode"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="CGMLoopView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="updateView" parent="CGMLoopView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="CGMLoopView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="CGMLoopView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="CGMLoopGoalView">
+<param id="goal"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="CGMLoopGoalView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load the resources required for the watch face<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="CGMLoopGoalView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="CGMLoopGoalView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the clock face graphics during update<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="CGMLoop">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="CGMLoop">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="CGMLoop">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="startTimer" parent="CGMLoop">
+<documentation/>
+</functionEntry>
+<functionEntry name="refreshUI" parent="CGMLoop">
+<documentation/>
+</functionEntry>
+<functionEntry name="onSettingsChanged" parent="CGMLoop">
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="CGMLoop">
+<documentation/>
+</functionEntry>
+<functionEntry name="getGoalView" parent="CGMLoop">
+<param id="goal"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
